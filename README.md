@@ -85,14 +85,6 @@
 * **Leadership**: **NSS Dream House Project Coordinator** - successfully completed 5 houses.
 * **Professional Growth**: Currently holding 4 active positions across development and SEO analysis.
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=dark&hide_border=true" alt="Streak" />
-</div>
-
----
 
 <p align="center">
   <i>"Building the future with code and precision."</i>
