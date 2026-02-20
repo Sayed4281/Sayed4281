@@ -1,107 +1,98 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>SAYED SHAHLOOB P</strong>
+  👋 Hi, I'm <strong>SAYED SHAHLOOB P</strong>
 </h1>
 
-<h3>Full Stack Developer | MERN • Flutter</h3>
+<h3>Frontend Engineer | Full Stack Developer (MERN • Flutter)</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+    Results-driven Frontend Engineer and Full Stack Developer with expertise in 
+    React.js, Next.js, Flutter, and Node.js.  
+    I build scalable web applications, enterprise CRM systems, PWAs, and 
+    IoT-integrated mobile solutions with strong focus on performance, 
+    SEO optimization, and clean architecture.
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:sayedshahloobpofficial@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌍_Malappuram,_Kerala-1e1e2e?style=for-the-badge" />
+    <a href="mailto:sayedshahloobpofficial@gmail.com">
+      <img src="https://img.shields.io/badge/📧_sayedshahloobpofficial@gmail.com-1e1e2e?style=for-the-badge" />
+    </a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Work-1e1e2e?style=for-the-badge" />
   </p>
-
-<h3>🌐 Socials</h3>
-  
-<p align="left">
- 
-
-  <a href="https://github.com/Sayed4281">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://sayedshahloobp-portfolio.vercel.app/#home">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/midhun-nk">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
-
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
 
+---
 
-## 🛠️ Skills
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
+## 🚀 Professional Experience
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
-<br/><br/>
+- 💼 Jr. Software Developer – Hirush Global LLP (Nov 2024 – Present)  
+  • Improved website performance by 40%  
+  • Integrated AI/ML-based solutions  
+  • Built scalable client web platforms  
 
-</td>
+- 💻 Frontend Engineer – Pro26 LLP (May 2024 – Present)  
+  • Developed cross-platform Flutter apps  
+  • Built dynamic React.js applications  
+  • Managed real-time data using Firebase & Redux  
 
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,nextjs,tailwind,bootstrap" />
-</td>
+- 📈 SEO Analyst – Hirush Global LLP (Feb 2024 – Present)  
+  • Conducted technical SEO audits  
+  • Increased site performance by 25%  
 
+---
 
+## 🛠️ Tech Stack
 
-</tr>
-<tr>
-<td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=appwrite,firebase,postgresql" />
-<br/><br/>
+### 💻 Programming
+HTML • CSS • JavaScript • TypeScript • Dart • Python
 
-</td>
+### ⚛️ Frontend
+React.js • Next.js • Flutter • Tailwind CSS • Framer Motion
 
-<td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio,antigravity" />
-</td>
-</tr>
-</table>
-</p>
+### 🛠 Backend
+Node.js • Express.js • Firebase • MongoDB • PostgreSQL • REST APIs
 
+### 🧰 Tools
+Git • GitHub • VS Code • Postman • Figma • GCP
 
+---
 
+## 📌 Featured Projects
 
+🔹 Restaurant Management System (React + Node + PostgreSQL)  
+🔹 Enterprise CRM System  
+🔹 Attendance Management System (PWA + GPS + Firebase)  
+🔹 NeuVitX – IoT Health Monitoring (Flutter + Firebase)
 
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=sayed4281&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=sayed4281&theme=dark&hide_border=true" />
 </div>
 
 ---
 
-## ❤️ Support Me
+## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+<p align="left">
+  <a href="https://github.com/Sayed4281">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/sayed-shahloob-p">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://sayedshahloobp-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" />
   </a>
 </p>
-
