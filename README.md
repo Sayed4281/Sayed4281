@@ -81,15 +81,4 @@
 * **Attendance Management PWA** - Geolocation-based tracking system (Node.js & GPS API)
 * **Brookvalley Resort** - High-performance web experience with Framer Motion
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=dark&hide_border=true" alt="Streak" />
-</div>
-
----
-
-<p align="center">
-  <i>"Building the future, one commit at a time."</i>
-</p>
