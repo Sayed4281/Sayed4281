@@ -1,98 +1,95 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
-  👋 Hi, I'm <strong>SAYED SHAHLOOB P</strong>
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Sayed Shahloob P</strong>
 </h1>
 
-<h3>Frontend Engineer | Full Stack Developer (MERN • Flutter)</h3>
+<h3>Frontend Engineer & Full Stack Developer | React • Flutter • Node.js</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    Results-driven Frontend Engineer and Full Stack Developer with expertise in 
-    React.js, Next.js, Flutter, and Node.js.  
-    I build scalable web applications, enterprise CRM systems, PWAs, and 
-    IoT-integrated mobile solutions with strong focus on performance, 
-    SEO optimization, and clean architecture.
+    I am a results-driven developer focused on building scalable architecture and user-centric interfaces. 
+    From enterprise CRM systems to IoT-based health monitoring apps, I bridge the gap between complex backend logic and seamless frontend experiences.
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/🌍_Malappuram,_Kerala-1e1e2e?style=for-the-badge" />
-    <a href="mailto:sayedshahloobpofficial@gmail.com">
-      <img src="https://img.shields.io/badge/📧_sayedshahloobpofficial@gmail.com-1e1e2e?style=for-the-badge" />
-    </a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Work-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌍_Malappuram,_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:sayedshahloobpofficial@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge" />
   </p>
+
+<h3>🌐 Socials</h3>
+  
+<p align="left">
+  <a href="https://linkedin.com/in/sayed-shahloob-p">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/your-username-here">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="tel:+919567220971">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
 
----
-
-## 🚀 Professional Experience
-
-- 💼 Jr. Software Developer – Hirush Global LLP (Nov 2024 – Present)  
-  • Improved website performance by 40%  
-  • Integrated AI/ML-based solutions  
-  • Built scalable client web platforms  
-
-- 💻 Frontend Engineer – Pro26 LLP (May 2024 – Present)  
-  • Developed cross-platform Flutter apps  
-  • Built dynamic React.js applications  
-  • Managed real-time data using Firebase & Redux  
-
-- 📈 SEO Analyst – Hirush Global LLP (Feb 2024 – Present)  
-  • Conducted technical SEO audits  
-  • Increased site performance by 25%  
-
----
-
 ## 🛠️ Tech Stack
 
-### 💻 Programming
-HTML • CSS • JavaScript • TypeScript • Dart • Python
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Languages</h3>
+ <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart" />
+<br/><br/>
+</td>
 
-### ⚛️ Frontend
-React.js • Next.js • Flutter • Tailwind CSS • Framer Motion
+<td width="50%" align="center">
+   <h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,express,tailwind,redux" />
+</td>
+</tr>
 
-### 🛠 Backend
-Node.js • Express.js • Firebase • MongoDB • PostgreSQL • REST APIs
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Databases & Cloud</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,postgresql,mysql" />
+<br/><br/>
+</td>
 
-### 🧰 Tools
-Git • GitHub • VS Code • Postman • Figma • GCP
+<td width="50%" align="center">
+    <h3>🧰 Tools & SEO</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</td>
+</tr>
+</table>
+</p>
 
----
+## 🚀 Key Projects
 
-## 📌 Featured Projects
-
-🔹 Restaurant Management System (React + Node + PostgreSQL)  
-🔹 Enterprise CRM System  
-🔹 Attendance Management System (PWA + GPS + Firebase)  
-🔹 NeuVitX – IoT Health Monitoring (Flutter + Firebase)
-
----
+* **NeuVitX** - IoT-integrated Health Monitoring (Flutter & Firebase)
+* **Enterprise CRM** - Scalable Sales Pipeline Management (React & PostgreSQL)
+* **Attendance Management PWA** - Geolocation-based tracking system (Node.js & GPS API)
+* **Brookvalley Resort** - High-performance web experience with Framer Motion
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sayed4281&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Sayed4281">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/sayed-shahloob-p">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://sayedshahloobp-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" />
-  </a>
+<p align="center">
+  <i>"Building the future, one commit at a time."</i>
 </p>
