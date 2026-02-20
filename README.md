@@ -5,13 +5,17 @@
   Hi, I'm <strong>Sayed Shahloob P</strong>
 </h1>
 
-<h3>Frontend Engineer & Full Stack Developer | React • Flutter • Node.js</h3>
+<h3>Frontend Engineer & Full Stack Developer | React • Flutter • Node.js • AI Integration</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
     I am a results-driven developer focused on building scalable architecture and user-centric interfaces. 
+    Currently a <b>Jr. Software Developer at Hirush Global LLP</b>, leading React.js and Next.js projects with a focus on AI/ML integration.
+  </p>
+  
+  <p>
     From enterprise CRM systems to IoT-based health monitoring apps, I bridge the gap between complex backend logic and seamless frontend experiences.
   </p>
 
@@ -27,13 +31,8 @@
   <a href="https://linkedin.com/in/sayed-shahloob-p">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://github.com/your-username-here">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="tel:+919567220971">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -49,36 +48,52 @@
 <tr>
 <td width="50%" align="center">
 <h3>💻 Languages</h3>
- <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart,python" />
 <br/><br/>
 </td>
-
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,express,tailwind,redux" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,express,tailwind,redux,django" />
 </td>
 </tr>
-
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases & Cloud</h3>
     <img src="https://skillicons.dev/icons?i=mongodb,firebase,postgresql,mysql" />
 <br/><br/>
 </td>
-
 <td width="50%" align="center">
     <h3>🧰 Tools & SEO</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,gcp" />
 </td>
 </tr>
 </table>
 </p>
 
-## 🚀 Key Projects
+## 🚀 Featured Projects
 
-* **NeuVitX** - IoT-integrated Health Monitoring (Flutter & Firebase)
-* **Enterprise CRM** - Scalable Sales Pipeline Management (React & PostgreSQL)
-* **Attendance Management PWA** - Geolocation-based tracking system (Node.js & GPS API)
-* **Brookvalley Resort** - High-performance web experience with Framer Motion
+* **NeuVitX - Health Monitoring** 🏥: Research project presented at **ICETI4T 2025**. Integrated IoT hardware with a Flutter mobile app for real-time vital signs monitoring.
+* **Enterprise CRM & Management** 📊: Engineered high-performance CRM and Restaurant Management Systems using **React.js, Node.js, and PostgreSQL**.
+* **ShopSmart - Expense Tracker** 💰: Comprehensive budget forecasting application with intelligent categorization and **Machine Learning**.
+* **Attendance Management PWA** 📍: Built a Progressive Web App for offline tracking with **Geolocation (GPS) integration**.
+* **Student Management System** 🎓: Flutter-based system for student records, attendance, and grade management using SQL and QR codes.
 
+## 🏆 Achievements
 
+* **Research Publication**: Presented NeuVitX Health Monitoring System at the **ICETI4T 2025 Conference**.
+* **Academic Excellence**: B.Tech in CS Engineering with **8.08 CGPA** from MEA Engineering College.
+* **Leadership**: **NSS Dream House Project Coordinator** - successfully completed 5 houses.
+* **Professional Growth**: Currently holding 4 active positions across development and SEO analysis.
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=dark&hide_border=true" alt="Streak" />
+</div>
+
+---
+
+<p align="center">
+  <i>"Building the future with code and precision."</i>
+</p>
