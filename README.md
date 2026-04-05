@@ -28,11 +28,14 @@
 <h3>🌐 Socials</h3>
   
 <p align="left">
-  <a href="https://linkedin.com/in/sayed-shahloob-p">
+  <a href="https://www.linkedin.com/in/er-sayed-shahloob-p/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username-here">
+  <a href="https://github.com/Sayed4281">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://sayedshahloobp-portfolio.vercel.app/#home">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
